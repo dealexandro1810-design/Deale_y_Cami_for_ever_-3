@@ -42,84 +42,84 @@ const recuerdos = [
 {
 titulo:"❤️ Nuestro cumplemes ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto5.jpeg",
+imagen:"foto5.jpeg",
 texto:"Ese día entendí que incluso una torta sencilla podía convertirse en uno de mis recuerdos favoritos contigo."
 },
 
 {
 titulo:"❤️ Nuestras llamadas ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto6.jpeg",
+imagen:"foto6.jpeg",
 texto:"No importaba si la llamada duraba cinco, siete o nueve horas... nunca quería colgar porque cada minuto contigo era mi lugar favorito."
 },
 
 {
 titulo:"❤️ Nuestro Chimmy ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto7.jpeg",
+imagen:"foto7.jpeg",
 texto:"Quién diría que un peluche terminaría convirtiéndose en nuestro hijito. Cada vez que lo veo me acuerdo de nosotros y sonrío."
 },
 
 {
 titulo:"❤️ Recuerdo ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto8.jpeg",
+imagen:"foto8.jpeg",
 texto:"Aquí pondremos otro de nuestros recuerdos bonitos."
 },
 
 {
 titulo:"❤️ Recuerdo ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto9.jpeg",
+imagen:"foto9.jpeg",
 texto:"..."
 },
 
 {
 titulo:"❤️ Recuerdo ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto10.jpeg",
+imagen:"foto10.jpeg",
 texto:"..."
 },
 
 {
 titulo:"❤️ Recuerdo ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto11.jpeg",
+imagen:"foto11.jpeg",
 texto:"..."
 },
 
 {
 titulo:"❤️ Recuerdo ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto12.jpeg",
+imagen:"foto12.jpeg",
 texto:"..."
 },
 
 {
 titulo:"❤️ Recuerdo ❤️",
 tipo:"imagen",
-imagen:"assets/images/foto13.jpeg",
+imagen:"foto13.jpeg",
 texto:"..."
 },
 
 {
 titulo:"❤️ Video ❤️",
 tipo:"video",
-archivo:"assets/videos/video1.mp4",
+archivo:"video1.mp4",
 texto:"❤️ Aquí irá el mensaje del primer video."
 },
 
 {
 titulo:"❤️ Video ❤️",
 tipo:"video",
-archivo:"assets/videos/video2.mp4",
+archivo:"video2.mp4",
 texto:"❤️ Aquí irá el mensaje del segundo video."
 },
 
 {
 titulo:"❤️ Video ❤️",
 tipo:"video",
-archivo:"assets/videos/video3.mp4",
+archivo:"video3.mp4",
 texto:"❤️ Aquí irá el mensaje del tercer video."
 }
 
