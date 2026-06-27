@@ -40,87 +40,87 @@ mainHeart.addEventListener("click", () => {
 const recuerdos = [
 
 {
-titulo:"❤️ Nuestro cumplemes ❤️",
+titulo:"❤️ maincra ❤️",
 tipo:"imagen",
 imagen:"foto5.jpeg",
-texto:"Ese día entendí que incluso una torta sencilla podía convertirse en uno de mis recuerdos favoritos contigo."
+texto:"Me gustaba mucho lo gran aplanadora de terrenos que eres mi amor, difruto jugar de este jueguito de cubitos contigo mi amor, aún me acuerdo de las casas que tenemos en nuestro mundo y al pusheen tmb obvio que sí me acuerdo de eso mi amor"
 },
 
 {
-titulo:"❤️ Nuestras llamadas ❤️",
+titulo:"❤️ robloxito ❤️",
 tipo:"imagen",
 imagen:"foto6.jpeg",
-texto:"No importaba si la llamada duraba cinco, siete o nueve horas... nunca quería colgar porque cada minuto contigo era mi lugar favorito."
+texto:"Amor quiero que sepas que eres mi jugadora de roblox fav, eres demasiado pro mi amorxito"
 },
 
 {
-titulo:"❤️ Nuestro Chimmy ❤️",
+titulo:"❤️ Musica ❤️",
 tipo:"imagen",
 imagen:"foto7.jpeg",
-texto:"Quién diría que un peluche terminaría convirtiéndose en nuestro hijito. Cada vez que lo veo me acuerdo de nosotros y sonrío."
+texto:"Me gusta mucho que compartamos canciones que escuchamos aún así no seamos fan del artista <3."
 },
 
 {
-titulo:"❤️ Recuerdo ❤️",
+titulo:"❤️ mi barbita ❤️",
 tipo:"imagen",
 imagen:"foto8.jpeg",
-texto:"Aquí pondremos otro de nuestros recuerdos bonitos."
+texto:"Aún recuerdo cuando me arrancabas los pelitos de la barba y la pasabas bien haciendolo, (yo para nada sufría)."
 },
 
 {
-titulo:"❤️ Recuerdo ❤️",
+titulo:"❤️ Chimmyyyy ❤️",
 tipo:"imagen",
 imagen:"foto9.jpeg",
-texto:"..."
+texto:"Una de las últimas fotos que nos tomamos estando juntos presencialmente, y con nuestro hijo, siento que los demás se van a poner celosos jkskjwwkjw"
 },
 
 {
-titulo:"❤️ Recuerdo ❤️",
+titulo:"❤️ kjwjkwjk ❤️",
 tipo:"imagen",
 imagen:"foto10.jpeg",
-texto:"..."
+texto:"Somosh guaposh"
 },
 
 {
-titulo:"❤️ Recuerdo ❤️",
+titulo:"❤️ uwu ❤️",
 tipo:"imagen",
 imagen:"foto11.jpeg",
-texto:"..."
+texto:"Foto patas cutesyy"
 },
 
 {
-titulo:"❤️ Recuerdo ❤️",
+titulo:"❤️ robloxito ❤️",
 tipo:"imagen",
 imagen:"foto12.jpeg",
-texto:"..."
+texto:"Me gusto fucho esta foto mi amor siento que nuestros personajes de roblox son tal para cual"
 },
 
 {
-titulo:"❤️ Recuerdo ❤️",
+titulo:"❤️ :v ❤️",
 tipo:"imagen",
 imagen:"foto13.jpeg",
-texto:"..."
+texto:"Aún sigo sin creer como corté tan bien la torta mi amor, y el video que le hice salió chévere también"
 },
 
 {
-titulo:"❤️ Video ❤️",
+titulo:"❤️ Bexito ❤️",
 tipo:"video",
 archivo:"video1.mp4",
-texto:"❤️ Aquí irá el mensaje del primer video."
+texto:"❤️ Sinceramente uno de los videos más lindos que tenemos es este mi amor, te amo demasiado mi vida, te envío unos bexotes a la distancia."
 },
 
 {
-titulo:"❤️ Video ❤️",
+titulo:"❤️ El arbolito ❤️",
 tipo:"video",
 archivo:"video2.mp4",
-texto:"❤️ Aquí irá el mensaje del segundo video."
+texto:"❤️ kjwkjwkjw, me da felicidad ver estos video y lo bien que la pasabamos juntos mi vida."
 },
 
 {
-titulo:"❤️ Video ❤️",
+titulo:"❤️ Un hasta pronto ❤️",
 tipo:"video",
 archivo:"video3.mp4",
-texto:"❤️ Aquí irá el mensaje del tercer video."
+texto:"❤️ Y quien diría que solamente falta un mes para reencontrarnos de nuevo mi amor, estoy muy ansioso porque ese día llegue y volvamos sacarnos risas en persona."
 }
 
 ];
